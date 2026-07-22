@@ -6,7 +6,6 @@
 
 *Built to make managing your BeamNG mods simple, clean and enjoyable.*
 
-![License](https://img.shields.io/github/license/CazymirTM/Carnitify-2.0?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/CazymirTM/Carnitify-2.0?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/CazymirTM/Carnitify-2.0/total?style=for-the-badge)
 
