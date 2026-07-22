@@ -30,15 +30,14 @@ The goal wasn't just to add new features—it was to make everything faster, cle
 - 🎨 Completely redesigned interface
 - 🛠️ Better stability and reliability
 - 🔄 Automatic mod detection
-- ❤️ Built for the BeamNG community
 
 ---
 
 ## 📥 Installation
 
 1. Download the latest release.
-2. Launch **Carnitify.exe**.
-3. Select your BeamNG.drive Mods folder if needed.
+2. Launch **Carnitify.2.0.exe**.
+3. The manager should automatically find your BeamNG mods folder, if not, choose manually yourself
 4. Enjoy.
 
 ---
@@ -56,7 +55,7 @@ Feel free to open an Issue. Every suggestion helps make Carnitify better.
 
 Developed by **Cazymir**
 
-Thanks to everyone using Carnitify and supporting the project. 🚗
+GUI made by **AlexXZrZ**
 
 ---
 
