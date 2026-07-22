@@ -8,6 +8,7 @@
 
 ![Stars](https://img.shields.io/github/stars/CazymirTM/Carnitify-2.0?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/CazymirTM/Carnitify-2.0/total?style=for-the-badge)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-white?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Carnitify-2.0/releases/latest)
 
 </div>
 
