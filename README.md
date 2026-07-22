@@ -1,2 +1,68 @@
-# Carnitify-2.0
-Updated and reworked BeamNG Mod Manager which was Carnitify, now which better logic and made in .NET 10 WPF
+<div align="center">
+
+# 🚗 Carnitify 2.0
+
+### A modern, fast and lightweight BeamNG.drive Mod Manager.
+
+*Built to make managing your BeamNG mods simple, clean and enjoyable.*
+
+![License](https://img.shields.io/github/license/CazymirTM/Carnitify-2.0?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/CazymirTM/Carnitify-2.0?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/CazymirTM/Carnitify-2.0/total?style=for-the-badge)
+
+</div>
+
+---
+
+## ✨ About
+
+Carnitify 2.0 is a complete rewrite of the original Carnitify.
+
+The goal wasn't just to add new features—it was to make everything faster, cleaner and easier to use. Whether you have 20 mods or 2,000, Carnitify helps you keep everything organized without touching your BeamNG installation manually.
+
+---
+
+## 🚀 Features
+
+- 📦 One-click mod installation
+- 🗂️ Clean and simple mod management
+- 🔍 Fast search
+- ⚡ Improved performance
+- 🎨 Completely redesigned interface
+- 🛠️ Better stability and reliability
+- 🔄 Automatic mod detection
+- ❤️ Built for the BeamNG community
+
+---
+
+## 📥 Installation
+
+1. Download the latest release.
+2. Launch **Carnitify.exe**.
+3. Select your BeamNG.drive Mods folder if needed.
+4. Enjoy.
+
+---
+
+## 💬 Feedback
+
+Found a bug?  
+Have an idea for a feature?
+
+Feel free to open an Issue. Every suggestion helps make Carnitify better.
+
+---
+
+## ❤️ Credits
+
+Developed by **Cazymir**
+
+Thanks to everyone using Carnitify and supporting the project. 🚗
+
+---
+
+<div align="center">
+
+### ⭐ If you enjoy Carnitify, consider leaving a Star!
+
+</div>
