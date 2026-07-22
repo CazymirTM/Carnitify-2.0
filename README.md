@@ -39,9 +39,10 @@ The goal wasn't just to add new features—it was to make everything faster, cle
 ## 📥 Installation
 
 1. Download the latest release.
-2. Launch **Carnitify.2.0.exe**.
-3. The manager should automatically find your BeamNG mods folder, if not, choose manually yourself
-4. Enjoy.
+2. Extract the archive with winrar or 7zip
+3. Open Carnitify 2.0 executable
+4. The manager should automatically find your BeamNG mods folder, if not, choose manually yourself
+5. Enjoy.
 
 ---
 
