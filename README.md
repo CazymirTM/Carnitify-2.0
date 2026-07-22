@@ -20,6 +20,8 @@ Carnitify 2.0 is a complete rewrite of the original Carnitify.
 
 The goal wasn't just to add new features—it was to make everything faster, cleaner and easier to use. Whether you have 20 mods or 2,000, Carnitify helps you keep everything organized without touching your BeamNG installation manually.
 
+![GUI of the program](gui.png)
+
 ---
 
 ## 🚀 Features
